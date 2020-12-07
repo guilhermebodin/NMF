@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+gensim = "*"
+matplotlib = "*"
+seaborn = "*"
+nltk = "*"
+jupyter = "*"
+opencv-python = "*"
+scikit-image = "*"
+imutils = "*"
+
+[requires]
+python_version = "3.8"
